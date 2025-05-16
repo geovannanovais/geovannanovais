@@ -1,6 +1,6 @@
 <h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" height="30px"> </h1> 
 
-<img align=right src="https://cdn.discordapp.com/attachments/881698116942843955/1077792857282330624/JUl.gif?ex=6736bed1&is=67356d51&hm=7828e706745dec9a2ea5cc1118830db8e56bc2b3124849a9ed0d1a4363aa2de1&" height="150px">
+<img align=right src="https://tarefasgeovanna.my.canva.site/_assets/video/cc95b6e783765b3cc4fc12711ebf51f9.gif" height="150px">
   
   <h4>
       🚀 Desenvolvedora de Software <br>
